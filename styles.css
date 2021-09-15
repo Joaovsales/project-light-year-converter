@@ -1,0 +1,65 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    height: 100%;
+    background-image: url("https://hdqwalls.com/wallpapers/nebula-stars-universe-galaxy-space-4k-kx.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .git-logo {
+    width: 15px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  
+  label {
+    color: white;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  h2 {
+    color: #ffffff;
+    font-size: 20px;
+    background-color: #000000;
+  }
+  
+  footer {
+    color: #ffffff;
+    font-size: 10px;
+    text-align: center;
+  }
