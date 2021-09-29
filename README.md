@@ -1,2 +1,2 @@
 # project-light-year-converter
- Light year to kilometer website using html, css and JS. Study purposes.
+ Light year to kilometer website using html, css and JS. Studying purposes.
